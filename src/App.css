@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: red;
+}
+
+button {
+  margin-top: 20px;
+  width: 180px;
+  padding: 5px;
+}
+
+.form {
+  margin: 150px auto;
+  height: 300px;
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid blue;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
